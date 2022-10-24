@@ -3,6 +3,7 @@ import styled from "styled-components";
 export const Nav = styled.div`
   nav {
     width: 95%;
+    margin: auto;
   }
   nav ul {
     display: flex;
@@ -13,6 +14,7 @@ export const Nav = styled.div`
   }
   li {
     font-size: 23px;
+    list-style: none;
   }
   a {
     color: black;

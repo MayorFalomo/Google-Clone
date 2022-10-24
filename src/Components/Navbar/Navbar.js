@@ -21,7 +21,7 @@ const Navbar = () => {
               {<BsFillGrid3X3GapFill />}
             </a>
           </li>
-          <ThumbImage src={auth.currentUser?.photoURL} alt="img"></ThumbImage>
+          <ThumbImage src={auth.currentUser?.photoUrl} alt="img"></ThumbImage>
         </ul>
       </nav>
     </Nav>

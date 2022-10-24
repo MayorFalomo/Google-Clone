@@ -4,7 +4,7 @@ import { Helmet } from "react-helmet";
 const Index = () => {
   return (
     <div>
-      <div class="search">
+      <div className="search">
         <Helmet>
           <script
             async

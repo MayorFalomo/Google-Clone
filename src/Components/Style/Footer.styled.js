@@ -16,6 +16,7 @@ export const Footers = styled.div`
     width: 100%;
     margin: auto;
     padding: 30px;
+    border: 2px red solid;
   }
   ul {
     display: flex;

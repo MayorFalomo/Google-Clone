@@ -12,7 +12,7 @@ export const Main = styled.div`
     margin: auto;
     text-align: center;
     /* height: 50vh; */
-    /* border: 2px yellow solid; */
+    border: 2px yellow solid;
   }
   button {
     padding: 10px 20px;
